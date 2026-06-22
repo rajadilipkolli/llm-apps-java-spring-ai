@@ -1,0 +1,119 @@
+repo_name: rajadilipkolli/llm-apps-java-spring-ai
+report_id: fbcf9026c1617f6983ce282e791ab0bd
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-03T14:15:13+00:00'
+requested_by: ThomasVitale
+provider: github
+branch: main
+detected_tools_count: 9
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai
+  detection_source: Repo Metadata
+- name: Smalltalk
+  description: An object-oriented, dynamically typed reflective programming language
+  website_url: http://en.wikipedia.org/wiki/Smalltalk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2624/no-img-open-source.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai
+  detection_source: Repo Metadata
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai/blob/main/00-use-cases/question-answering-with-documents/build.gradle
+  detection_source: 00-use-cases/question-answering-with-documents/build.gradle
+  last_updated_by: Thomas Vitale
+  last_updated_on: 2024-04-28 20:44:43.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai/blob/main/.github/workflows/commit-stage.yml
+  detection_source: ".github/workflows/commit-stage.yml"
+  last_updated_by: Thomas Vitale
+  last_updated_on: 2024-04-28 21:22:00.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai/blob/main/00-use-cases/question-answering-with-documents/build.gradle
+  detection_source: 00-use-cases/question-answering-with-documents/build.gradle
+  last_updated_by: Thomas Vitale
+  last_updated_on: 2024-01-21 21:32:21.000000000 Z
+- name: Apache Camel
+  description: A versatile open source integration framework
+  website_url: https://camel.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Platform as a Service
+  image_url: https://img.stackshare.io/service/3276/xWt1RFo6_400x400.jpg
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai/blob/main/00-use-cases/question-answering-with-documents/src/main/resources/application.yml
+  detection_source: 00-use-cases/question-answering-with-documents/src/main/resources/application.yml
+  last_updated_by: Thomas Vitale
+  last_updated_on: 2024-01-21 21:32:21.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai/blob/main/00-use-cases/question-answering-with-documents/build.gradle
+  detection_source: 00-use-cases/question-answering-with-documents/build.gradle
+  last_updated_by: Thomas Vitale
+  last_updated_on: 2024-04-28 20:44:43.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/rajadilipkolli/llm-apps-java-spring-ai/blob/main/00-use-cases/question-answering-with-documents/build.gradle
+  detection_source: 00-use-cases/question-answering-with-documents/build.gradle
+  last_updated_by: Thomas Vitale
+  last_updated_on: 2024-04-28 20:44:43.000000000 Z
